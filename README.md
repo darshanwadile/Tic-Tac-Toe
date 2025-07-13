@@ -1,6 +1,6 @@
 # 🎮 Tic Tac Toe Game
 
-A simple and elegant **Tic Tac Toe** game for two players built using **HTML, CSS**, and **JavaScript**. Player 1 uses **❌ X** and Player 2 uses **⭕ O** to compete on a 3x3 grid, with real-time status updates and a modern UI.
+A simple and elegant **Tic Tac Toe** game for two players built using **HTML, CSS**, and **JavaScript**. Player 1 uses **❌** and Player 2 uses **⭕** to compete on a 3x3 grid, with real-time status updates and a modern UI.
 
 ---
 
@@ -19,7 +19,7 @@ A simple and elegant **Tic Tac Toe** game for two players built using **HTML, CS
 
 - **HTML5**
 - **CSS3**
-- **JavaScript (Vanilla)**
+- **JavaScript**
 
 ---
 
