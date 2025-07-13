@@ -4,13 +4,6 @@ A simple and elegant **Tic Tac Toe** game for two players built using **HTML, CS
 
 ---
 
-## 📸 Screenshot
-
-![Tic Tac Toe Game Preview](./assets/screenshot.png)  
-*(Update the path if needed to match your project folder)*
-
----
-
 ## 🎯 Features
 
 - 🧠 Classic **2-player** turn-based gameplay
